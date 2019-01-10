@@ -221,6 +221,13 @@ Order shall also be used in instances not covered within this constitution.
 ## Section 4. Quorum:
 Quorum of the membership shall be 30 student members.
 
+## Section 5. Meeting Agenda:
+The agenda for each Town Hall meetings will be set prior to the beginning of each meeting and posted publicly. At the
+beginning of Town Hall meetings there will be an open forum where members may make motions to add agenda items to the
+agenda. Additionally, members may make these motions in absentia by sending their motions to the secretary via email
+before the beginning of the meeting. In this case, the secretary will make the motions on behalf of the absent members.
+The motions must be seconded by another member to be added to the agenda.
+
 # Article IX: Finances
 
  Student Council shall not have any dues.
