@@ -78,9 +78,10 @@ Board. The Executive Board shall be comprised of three members:
 
 * Two Chairs tasked to: organize the meetings, ensure that meetings are run according to the constitution and the
   bylaws, and establish the link between the students and the CoC administration. Bylaws define the details of the
-  responsibilities of the chairs.  * A Secretary tasked to: maintain the proper documentation for the organization,
-  including publishing the meeting minutes and resolutions as well as maintaining the online presence of this
-  organization. Bylaws define the details of the responsibilities of the secretary.
+  responsibilities of the chairs.
+* A Secretary tasked to: maintain the proper documentation for the organization, including publishing the meeting
+  minutes and resolutions as well as maintaining the online presence of this organization. Bylaws define the details of
+  the responsibilities of the secretary.
 
 ## Section 2. Student Advisory Board Members:
 The Student Advisory Board shall serve as a representative body elected by the students of the CoC to advise the
