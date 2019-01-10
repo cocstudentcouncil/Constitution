@@ -94,8 +94,8 @@ details of the responsibilities of the secretary. The Student Advisory Board sha
    2nd year CoC undergraduate students,
 4. An Upperclassmen representative, pursuing an undergraduate degree and in their 3rd or 4th+ year, elected by 3rd and
    4th+ year CoC undergraduate students,
-5. The Two Undergraduate CoC Student Government Association (SGA) representatives to the Undergraduate House of
-   Representatives, elected as governed by SGA laws,
+5. The Undergraduate CoC Student Government Association (SGA) representatives to the Undergraduate House of
+   Representatives, elected as governed by SGA laws (the number of these is determined by SGA),
 6. A TA representative, who is a teaching assistant for a course offered in the CoC, elected by CoC teaching assistants, 
 7. A Student Orgs representative, elected by the CoC Student Organizations Council,
 8. A UROC representative, performing undergraduate research through UROC, elected by student members performing research
