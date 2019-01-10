@@ -100,8 +100,8 @@ details of the responsibilities of the secretary. The Student Advisory Board sha
 7. A Student Orgs representative, elected by the CoC Student Organizations Council,
 8. A UROC representative, performing undergraduate research through UROC, elected by student members performing research
    through UROC.
-9. A CM representative, pursuing an undergraduate degree in Computational Media (CM), elected by CoC students pursuing
-   an undergraduate degree in Computational Media.
+9. A CM representative, pursuing an undergraduate degree in Computational Media (CM), elected by the CM Ambassadors
+   student organization within the CoC.
 
 # Article VI: Election of Officers
 
