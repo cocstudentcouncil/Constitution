@@ -14,7 +14,7 @@ geometry: margin=1in
 
 # Article I: Name
 
-Founded on November 13th of 2018, this organization shall be known as The Student Council at the College of Computing at
+Founded on November 15th of 2018, this organization shall be known as The Student Council at the College of Computing at
 Georgia Tech, henceforth referred to as Student Council.
 
 # Article II: Purpose
@@ -23,7 +23,7 @@ The purpose of this organization is to:
 
 * Organize Town Halls to provide a platform for all Georgia Tech College of Computing (CoC) students to organize and
   freely discuss issues concerning the CoC and its future;
-* Establish a direct communication channel between the CoC students and the Dean of the CoC;
+* Establish a direct communication channel between the CoC students and the Administration of the CoC;
 * Ensure that the voices of the CoC students are heard and taken into account when decisions concerning the future of
   the CoC are made by the CoC Administration.
 
